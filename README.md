@@ -3,7 +3,7 @@
 ## [button-grad-highlight-shine](works/../works/button/grad-highlight-shine)
 
 ### Format
-AI, SVG, png 320x80, png 640x160
+AI, SVG, png 320x80 * 8種, png 640x160 * 8種
 
 ### Sample
 
