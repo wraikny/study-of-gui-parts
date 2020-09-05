@@ -7,7 +7,7 @@ AI, SVG, png 320x80 * 8種, png 640x160 * 8種
 
 ### Sample
 
-![](works/../works/button/grad-highlight-shine/button-grad-highlight-shine.svg)
+![](works/../works/button/grad-highlight-shine/button-grad-highlight-shine-320x80.svg)
 
 ### Example
 
