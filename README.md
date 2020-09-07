@@ -50,3 +50,5 @@ AI, SVG, png 100x200 * 14種, png 200x400 * 14種
 
 ## 参考サイト
 - [ソシャゲでありがちなボタンを簡単に作る方法|ゲームUIネット](https://game-ui.net/?p=222)
+- [「ボトルアイコンの作り方」をまとめました... @HanaSakuno](https://twitter.com/HanaSakuno/status/1302743492360392704?s=20)
+
