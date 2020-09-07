@@ -39,5 +39,14 @@ Font: [マキナス](https://moji-waku.com/makinas/)
 ![](works/../works/button/metalic-dark-highlight/button-metalic-dark-highlight.example.png)
 
 
+## [icon-bottle-colorful-cylinder](works/../works/button/bottle-colorful-cylinder)
+### Format
+AI, SVG, png 100x200 * 14種, png 200x400 * 14種
+
+### Sample
+
+![](works/../works/icon/bottle-colorful-cylinder/icon-bottle-colorful-cylinder-100x200.png)
+
+
 ## 参考サイト
 - [ソシャゲでありがちなボタンを簡単に作る方法|ゲームUIネット](https://game-ui.net/?p=222)
